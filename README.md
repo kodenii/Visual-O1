@@ -9,8 +9,8 @@ Official implementation of "Visual-O1: Understanding Ambiguous Instructions via 
 
 ## Update
 
-- [24/02] We released the code on Github.
-- [23/01] Our paper is accepted by ICLR 2025.
+- [24/02/25] We released the code on Github.
+- [23/01/25] Our paper is accepted by ICLR 2025.
 
 ## Overview of Visual-O1
 
